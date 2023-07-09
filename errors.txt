@@ -1,0 +1,9 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 19: is not terminated with a newline. (Check strings and parenthesis.)
+    define swk = Character(_("Sun Wukong", color ="#fcfcfc")
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Tue Jul 19 19:52:59 2022
